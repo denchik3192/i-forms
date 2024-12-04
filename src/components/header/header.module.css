@@ -1,0 +1,14 @@
+.title {
+    color: #42567A;
+    font-size: 800;
+}
+
+/* .title::before {
+    content: '';
+    position: absolute;
+    top: 5px;
+    left: -60px;
+    width: 5px;
+    height: 4rem;
+    background: linear-gradient(#3877EE, #EF5DA8);
+} */
