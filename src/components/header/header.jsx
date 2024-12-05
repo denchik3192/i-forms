@@ -20,7 +20,7 @@ import {
 
 const Header = () => {
   return (
-    <header>
+    <header style={{ marginBottom: '20px' }}>
       <HStack>
         <IconButton variant="outline" aria-label="user">
           <LuMenu />
